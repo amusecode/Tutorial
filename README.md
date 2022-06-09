@@ -9,7 +9,7 @@ But anybody who would like to contribute is welcome.
 
 # List of tutorials:
 
-## scalar_units.ipynb
+## 01 - Units and Quantities.ipynb
 Exploring some of the capabilities of units in AMUSE
 
 #### Learning objectives
@@ -18,11 +18,8 @@ Exploring some of the capabilities of units in AMUSE
  * Perform simple mathematical operations on variables with units.
  * Printing results in your preferred units.
  
-## particles.ipynb
+## 02 - Particles.ipynb
 Handling particles
-
-## excell_to_particleset.ipynb
-Converting external data formats to a common AMUSE particle set
 
 #### Learning objectives
  * Initialize particle sets.
@@ -40,7 +37,7 @@ Converting external data formats to a common AMUSE particle set
  * synchronize_to()
  * get_subset_from()
 
-## Nemesis_and_the_Sun.ipynb
+## 03 - Nemesis_and_the_Sun.ipynb
 Learn how to use modules and set up binary and multiple systems.
 
 #### Learning objectives
@@ -49,8 +46,8 @@ Learn how to use modules and set up binary and multiple systems.
  * Converting orbital elements to Cartesian coordinates.
  * Generate binary from orbital elements.
 
-## running_an_Nbody_code.ipynb   
-perform simple N-boyd simulation
+## 04 - Running_an_Nbody_code.ipynb   
+perform simple N-body simulation
 
 #### Learning objectives
  * How to generate inital conditions using built-in functions:
@@ -62,7 +59,7 @@ perform simple N-boyd simulation
  * Simple plotting using *matplotlib* and AMUSE-native overloads.
  * Making cumulative distributions
 
-## running_stellarevolution.ipynb  
+## 05 - Running_stellar_evolution.ipynb  
 Perform simple stellar evolution calculation by setting up a stellar
 mass-function, declaring the stellar evolution code and run it to a
 certain moment in time.
@@ -72,7 +69,7 @@ certain moment in time.
  * Plot the results.
  * Use channels from and to running modules.
 
-##  running_Nbdoy_with_stellar.ipynb  
+## 06 - Running_Nbody_with_stellar.ipynb  
 Run a stellar evolution code as well as an N-body code and assure that
 the result is self consistent.
 
@@ -82,7 +79,7 @@ the result is self consistent.
  * Use Channels across modules.
  * Plot results.
 
-##  running_Nbody_with_collisions.ipynb
+## 07 - Running_Nbody_with_collisions.ipynb
 Perform an N-body calculation that includes stellar evolution and
 collisions between stars.
 
@@ -97,7 +94,7 @@ collisions between stars.
  * Merge stars.
  * How to find an interacting subset of particles
 
-##  bridged_Nbody_with_Galaxy.ipynb   
+## 08 - Bridged_Nbody_with_Galaxy.ipynb   
 Simulate a single star (and a cluster) in orbit around the Galactic
 center.
 
@@ -109,7 +106,7 @@ center.
  * Appreciate the role of get_gravity_at_point function in bridge.
  * Appreciate the role of get_potential_at_point function in bridge.
 
-##  gravity_cascaded_bridges.ipynb
+## 09 - Gravity_cascaded_bridges.ipynb
 Simulate several planetary system, each with their own N-body
 integrator, and the lot integrated in another N-body code.  Note that
 here the interactions of one planet to the planets around another star
