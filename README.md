@@ -122,6 +122,15 @@ are ignored in this implementation.
 #### Learning objectives
  * use a cascade of bridges
 
+
+## 10 - Generic_units.ipynb
+Additional notes on generic and nbody_system units.
+
+#### Learning objectives
+ * understand the use of generic and nbody units.
+ * apply converters to codes
+ * use converters to scale initial conditions
+
 ## high_order_bridge.ipynb
 **Not yet documented**
 **Not yet working**
