@@ -9,6 +9,9 @@ But anybody who would like to contribute is welcome.
 
 # List of tutorials:
 
+The order of the tutorials can be followed, but is this is not strictly necessary.
+(and sometimes a tutorial references a later on).
+
 ## 00 - Getting Started.ipynb
 Introduction to the notebook environment and the AMUSE tutorial.
 
