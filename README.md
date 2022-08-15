@@ -1,16 +1,19 @@
 # AMUSE-Tutorial
 
-Here are a number of small AMUSE tutorials in the form of python
+Here are a number of AMUSE tutorials in the form of python
 notebooks. These tutorials will (in part) be used for the AMUSE
-summer school 2022 at Geneva Observatory, June 2022.
+Summer School 2022 at Geneva Observatory, June 2022 and the 
+International Virtual Course on Astrophysical Modeling and Computation
+organized by FMIPA-ITB, Indonesia. But ofcourse they provide a good 
+introduction to AMUSE for anyone interested in AMUSE.
 
-Responsibility --so-far-- is by Simon Portegies Zwart
-But anybody who would like to contribute is welcome.
+These tutorials where started by Simon Portegies Zwart, 
+suggestions and contributions are welcome.
 
 # List of tutorials:
 
 The order of the tutorials can be followed, but is this is not strictly necessary.
-(and sometimes a tutorial references a later on).
+(and sometimes a tutorial references a later one).
 
 ## 00 - Getting Started.ipynb
 Introduction to the notebook environment and the AMUSE tutorial.
