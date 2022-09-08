@@ -179,8 +179,16 @@ smoothed-particle hydrodynamics code.
 ## evolve_stars_asynchroneously.ipynb
  * learn how to construct a population of stars that did not co-evolve
 
-## running_radiative_transport.ipynb
-**Not yet constructed**
+## 20 - Radiative_transfer_preparations.ipynb
+## 21 - Radiative_transfer.ipynb
+
+These tutorials further familiarize the student with AMUSE units and writing utility 
+functions, inpreparation for a simple radiative transfer experiment.
+
+#### Learning objectives
+ * write efficient functions using AMUSE unit idiom,
+ * run radiative transfer code
+
 
 
 ### License
